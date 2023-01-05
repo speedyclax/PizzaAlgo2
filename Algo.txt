@@ -1,0 +1,5 @@
+Step 1. Decide which business to order from
+Step 2. Decide which type of pizza to order
+Step 3. Call and place order
+Step 4. Pick up pizza
+Step 5. Eat
